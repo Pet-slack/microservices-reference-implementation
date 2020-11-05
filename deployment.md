@@ -15,7 +15,7 @@
 Clone or download this repo locally.
 
 ```bash
-git clone https://github.com/mspnp/microservices-reference-implementation.git
+git clone https://github.com/Pet-slack/microservices-reference-implementation.git
 ```
 
 The deployment steps shown here use Bash shell commands. On Windows, you can use the [Windows Subsystem for Linux](https://docs.microsoft.com/windows/wsl/about) to run Bash.
